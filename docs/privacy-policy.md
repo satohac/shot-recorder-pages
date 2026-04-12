@@ -76,7 +76,7 @@ We may update this Privacy Policy from time to time. The updated version will be
 ### 9. Contact
 
 If you have any questions about this Privacy Policy, please contact us at:
-[your-email@example.com]
+[contact@hac-system.jp]
 
 ---
 ---
@@ -155,4 +155,4 @@ https://myaccount.google.com/data-and-privacy
 ### 9. お問い合わせ
 
 本プライバシーポリシーに関するご質問は、下記までご連絡ください。
-[your-email@example.com]
+[contact@hac-system.jp]
