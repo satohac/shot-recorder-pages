@@ -15,6 +15,16 @@
 - Hold the NFC tag directly against the top-rear of your iPhone near the camera
 - Supported: iPhone 7 and later running iOS 13+
 
+**Which NFC tags are compatible?**
+Shot Recorder supports the following tag types:
+- **ISO 14443-A** — MIFARE Ultralight, NTAG2xx series (e.g. NTAG213, NTAG215, NTAG216)
+- **ISO 14443-B**
+- **ISO 18092** — NFC-F / FeliCa
+- **ISO 15693** — NFC-V
+- **ISO 7816** compliant tags
+
+Validated with **NTAG213 (ISO/IEC 14443-A)** — widely available online and in electronics stores, and recommended for use with this app.
+
 **Why does the app request location permission?**
 Shot Recorder uses GPS to capture the position of each shot and calculate carry distances automatically. Location access is required for core functionality. Selecting "While Using the App" is sufficient.
 
@@ -58,6 +68,16 @@ For questions, bug reports, or feedback, please contact us at:
 - iPhone の NFC が有効になっているか確認してください：設定 > 一般 > NFC
 - NFC タグは iPhone 背面のカメラ付近にしっかり当ててください
 - 対応機種：iPhone 7 以降（iOS 13以上）
+
+**使用できる NFC タグの種類は？**
+Shot Recorder は以下の規格に対応しています：
+- **ISO 14443-A** — MIFARE Ultralight、NTAG2xx シリーズ（NTAG213 / NTAG215 / NTAG216 など）
+- **ISO 14443-B**
+- **ISO 18092** — NFC-F / FeliCa
+- **ISO 15693** — NFC-V
+- **ISO 7816** 準拠タグ
+
+動作検証済みタグ：**NTAG213（ISO/IEC 14443-A）** — ネット通販や家電量販店で購入しやすく、本アプリで推奨しています。
 
 **位置情報の許可を求められるのはなぜ？**
 Shot Recorder はショットの位置を GPS で記録し、飛距離を自動計算するために位置情報を使用します。「このAppの使用中のみ許可」で動作します。
